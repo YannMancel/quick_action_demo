@@ -14,7 +14,16 @@
 
 ## Dependencies
 * Flutter Version Management
-    * [fvm][dependencies_fvm]
+  * [fvm][dependencies_fvm]
+* Quick Actions
+  * [quick_actions][dependencies_quick_actions]
+* Data class generator
+  * [build_runner][dependencies_build_runner]
+  * [freezed][dependencies_freezed]
+  * [freezed_annotation][dependencies_freezed_annotation]
+* State managers
+  * [flutter_hooks][dependencies_flutter_hooks]
+  * [hooks_riverpod][dependencies_hooks_riverpod]
 
 ## Troubleshooting
 
@@ -32,6 +41,12 @@
 [link_flutter_release]: https://docs.flutter.dev/development/tools/sdk/releases
 [link_apple_doc]: https://developer.apple.com/documentation/bundleresources/information_property_list/nsapptransportsecurity
 [dependencies_fvm]: https://fvm.app/
+[dependencies_quick_actions]: https://pub.dev/packages/quick_actions
+[dependencies_build_runner]: https://pub.dev/packages/build_runner
+[dependencies_freezed]: https://pub.dev/packages/freezed
+[dependencies_freezed_annotation]: https://pub.dev/packages/freezed_annotation
+[dependencies_flutter_hooks]: https://pub.dev/packages/flutter_hooks
+[dependencies_hooks_riverpod]: https://pub.dev/packages/hooks_riverpod
 [useful_android_studio]: https://developer.android.com/studio
 [useful_virtual_device]: https://developer.android.com/studio/run/managing-avds.html
 [useful_developer_options]: https://developer.android.com/studio/debug/dev-options.html#enable
